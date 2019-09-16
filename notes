@@ -1,0 +1,5 @@
+l - (extra small devices - screen width less than 576px)
+l-sm- (small devices - screen width equal to or greater than 576px)
+l-md- (medium devices - screen width equal to or greater than 768px)
+l-lg- (large devices - screen width equal to or greater than 992px)
+l-xl- (xlarge devices - screen width equal to or greater than 1200px)
